@@ -10,6 +10,8 @@
     "generate": "yarn plop --plopfile generators/plopfile.js"
   },
   "dependencies": {
+    "@capacitor/cli": "^3.1.2",
+    "@capacitor/core": "^3.1.2",
     "formik": "^2.2.9",
     "next": "11.0.1",
     "react": "17.0.2",
