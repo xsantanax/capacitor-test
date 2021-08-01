@@ -1,4 +1,4 @@
-package com.example.app;
+package com.politik.news;
 
 import com.getcapacitor.BridgeActivity;
 
